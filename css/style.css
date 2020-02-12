@@ -1,0 +1,109 @@
+/* body {
+    background-color: linen;
+ }
+ h1 {
+    color: maroon;
+    margin-left: 40px;
+ } */
+
+body{
+   background-color: rgb(209, 245, 242);
+}
+
+ h1 {
+    font-family: arial;
+    font-size: 35px;
+    color: rgb(17, 7, 68);
+    
+   }
+
+   h2 {
+      font-size: 30px;
+      margin-left: 150px;
+
+   }
+
+   h3{
+      font-family: arial;
+      font-size: x-large;
+      margin-left: 40%;
+   }
+
+ .c0 {
+   font-family: arial;
+   font-size: 18px;
+   margin-left: 25px;
+
+
+}
+
+ .c1 {
+    font-family: arial;
+    font-size: 18px;
+    margin-left: 150px;
+    color: rgb(68, 27, 11);
+
+ }
+
+ .c2 {
+    color: rgb(159, 184, 16);
+ }
+ .c3{
+   font-family: arial;
+   font-size: 18px;
+ }
+
+ .cf{
+   font-family: arial;
+   font-size: 18px;
+   margin-left: 50px;
+ }
+
+ img {
+   border-radius: 20%;
+ }
+
+ .c3{
+    font-family: Arial;
+    font-size: large;
+    
+ }
+
+ .card-header{
+   padding-top: 5px;
+   padding-bottom: 5px;
+    background-color: aquamarine;
+ }
+
+ .card-primary{
+    
+   
+    background-color: bisque;
+ }
+
+ .hp div{
+   display: inline-block;
+ }
+
+ .form{
+   font-family: arial;
+   margin-left: 100px;
+   width: 50%;
+ }
+
+ #email{
+   font-family: arial;
+   margin-left: 140px;
+ }
+
+ .gender{
+   font-family: arial;
+   margin-left: 120px;
+ }
+
+ .e{
+   font-family: arial;
+   color:red;
+   font-size: small;
+
+ }
